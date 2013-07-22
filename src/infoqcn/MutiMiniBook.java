@@ -30,8 +30,8 @@ public class MutiMiniBook {
 	private static final int PAGE_SIZE = 12;
 	private static final String DOWNLOAD_FOLDER = "E:\\minibooks\\";
 
-	private static final String USERNAME = "cheche0917@126.com";
-	private static final String PASSWORD = "cxy0917";
+	private static final String USERNAME = "your infoq username";
+	private static final String PASSWORD = "your infoq password";
 
 	private static final int THREAD_NUM = 3;
 
