@@ -84,7 +84,7 @@ public class MutiMiniBook {
 			e.printStackTrace();
 			return null;
 		}
-		return download_link;
+		return download_link.replace(" ", "%20");
 	}
 
 	public static boolean download(String urlString) {
